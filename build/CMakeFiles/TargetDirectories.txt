@@ -1,0 +1,6 @@
+/root/cs/c++/build/CMakeFiles/core.dir
+/root/cs/c++/build/CMakeFiles/app.dir
+/root/cs/c++/build/CMakeFiles/unit_test.dir
+/root/cs/c++/build/CMakeFiles/test.dir
+/root/cs/c++/build/CMakeFiles/edit_cache.dir
+/root/cs/c++/build/CMakeFiles/rebuild_cache.dir

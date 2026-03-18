@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/root/cs/c++/build",
+  "command": "/usr/bin/c++  -I/root/cs/c++/include -std=gnu++17 -o CMakeFiles/core.dir/src/math.cpp.o -c /root/cs/c++/src/math.cpp",
+  "file": "/root/cs/c++/src/math.cpp"
+},
+{
+  "directory": "/root/cs/c++/build",
+  "command": "/usr/bin/c++  -I/root/cs/c++/include -std=gnu++17 -o CMakeFiles/app.dir/src/main.cpp.o -c /root/cs/c++/src/main.cpp",
+  "file": "/root/cs/c++/src/main.cpp"
+},
+{
+  "directory": "/root/cs/c++/build",
+  "command": "/usr/bin/c++  -I/root/cs/c++/include -std=gnu++17 -o CMakeFiles/unit_test.dir/tests/test.cpp.o -c /root/cs/c++/tests/test.cpp",
+  "file": "/root/cs/c++/tests/test.cpp"
+}
+]
